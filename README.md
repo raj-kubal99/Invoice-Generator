@@ -14,7 +14,7 @@ https://invoice-generator-react.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/raj-kubal99/Invoice-Generator
 
 npm install
 
@@ -33,4 +33,4 @@ npm start / npm run build
 
 ### Meta
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+Raj Kubal – [raj.kubal.99@gmail.com](https://raj.kubal.99@gmail.com)
